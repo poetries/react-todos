@@ -4,7 +4,7 @@ react-todos
 > 采用[yeoman](https://github.com/yeoman/generator-generator)脚手架搭建 
 
 ```javascript
-# 按照依赖
+# 安装依赖
 npm install
 
 # 执行
